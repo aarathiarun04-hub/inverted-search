@@ -1,0 +1,20 @@
+
+====================== DATABASE ======================
+INDEX  WORD            FILE COUNT   FILE NAME       WORD COUNT
+------------------------------------------------------
+0      are             3            file1.txt       1         
+                                    file2.txt       1         
+                                    file3.txt       1         
+0      apple           1            file2.txt       1         
+0      arjun           1            file3.txt       1         
+7      hii             1            file1.txt       1         
+7      hello           1            file1.txt       1         
+7      how             1            file1.txt       1         
+7      helllo          1            file3.txt       1         
+14     orange          1            file2.txt       1         
+14     ok              1            file3.txt       1         
+22     whatsapp        1            file1.txt       1         
+24     you             3            file1.txt       1         
+                                    file2.txt       1         
+                                    file3.txt       1         
+26     231             1            file1.txt       1         
