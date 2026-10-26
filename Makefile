@@ -1,7 +1,7 @@
 OBJ = $(patsubst %.c,%.o,$(wildcard *.c))
 
-apc: $(OBJ)
+inverted_search: $(OBJ)
 	gcc -o $@ $^
 
 clean:
-	rm -f *.o apc
+	rm -f *.o inverted_search
